@@ -1,2 +1,3 @@
 Esto es un texto bonito
-desde las perspectiva de Fulanito y Sotanito
+desde las perspectiva de Fulanito
+No me toques los GITS
